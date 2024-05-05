@@ -1,0 +1,5 @@
+[
+    {
+        "processed": "The error message is explaining that JSON does not know how to serialize datetime.datetime objects. You will need to convert the datetime object to a string before passing it to jsonify.\n\nYou can convert the datetime object to a string using strftime function. Here is an example:\n\n```python\nfrom datetime import datetime\n\nsample = {}\nsample['title'] = \"String\"\nsomedatetimehere = datetime.now()\nsample['somedate'] = somedatetimehere.strftime(\"%Y-%m-%d %H:%M:%S.%f\")\n\njsonify(sample)\n```\n\nIn the above code, we are converting the datetime object to a string with the format \"YYYY-MM-DD HH:MM:SS.ssssss\". If you want a different format, you can modify the format string accordingly."
+    }
+]

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+    <head>
+        <title>RP: Report</title>
+        <meta name='author' content='Patrick Carnevale'>
+        <meta name='description' content='This is the report page of the research project'>
+        <link rel="icon" type="image/x-icon" href="favicon.png">
+        <link rel="stylesheet" href="stylesheet.css"/>
+        <script src="scriptsheet.js"></script>
+        <meta charset='utf-8'>
+    </head>
+
+    <body>
+        <div id="navbar">
+            <a href="homepage.html" id="logo">Infusing Competitive Programming With Code Completion</a>
+            <div id="navbar-right">
+              <a href="homepage.html">Home</a>
+              <a href="about.html">About</a>
+              <a class="active" href="skills.html">Report</a>
+              <a href="projects.html">Presentation</a>
+              <a href="contact.html">Contact</a>
+            </div>
+        </div>
+          
+        <div id="content">
+        <h1><b>Report:</b></h1>
+            <pre>
+Alright so hello and welcome to my research project. My task is to build 
+a python program that will give coding examples that the user will have 
+to complete and give suggestions as to where the user went wrong if they 
+make a mistake. The questions will be gathered from other online sources 
+using a crawler. It will use machine learning to search for, find and grab 
+questions from existing programming sites.
+
+Then step 2 is to classify those programming questions into categories 
+and remove duplicates.
+
+Then utilize some open-source large language models to assist with 
+code generation and completion.
+
+Steps:
+
+**Step 1: Web Scraping and Question Collection**
+
+I need to create a web crawler that scrapes programming questions from 
+online sources. Python libraries like `BeautifulSoup` and `requests` 
+can help with web scraping. The specific steps include:
+
+1. Identify online sources (e.g., Stack Overflow, GitHub, Codecademy) 
+to scrape questions from.
+2. Write a web crawler that can visit these websites, extract questions, 
+and relevant code snippets.
+3. Store the questions and code snippets in a structured format (e.g., 
+JSON, CSV, or a database).
+
+**Step 2: Question Classification and Deduplication**
+
+After collecting questions, I need to classify them into categories 
+and remove duplicates. Here are the steps:
+
+1. Define a set of categories or tags that questions can belong to (e.g., 
+Python, JavaScript, Machine Learning).
+2. Implement a classification system that assigns each question to one 
+or more categories based on keywords or other criteria.
+3. Remove duplicate questions to ensure the uniqueness of your dataset.
+
+**Step 3: Code Generation and Completion**
+
+I'll need to integrate a large language model like GPT-3 (or GPT-4 if 
+it's available) for code generation and completion. This step involves:
+
+1. Set up an API connection to the language model service (e.g., OpenAI's 
+GPT-3).
+2. Create a function or module that takes a partial code snippet as input 
+and generates code completions.
+3. When a user attempts to complete a coding example, send their input 
+to the language model and receive suggestions or completions.
+4. Process and present the suggestions to the user, highlighting potential 
+issues or mistakes.
+
+**Step 4: User Interface**
+
+Develop a user interface to make it user-friendly. I can build a web 
+application, a desktop application, or a command-line interface (CLI) to 
+interact with the program. This UI should allow users to:
+
+1. Choose a category or topic for the coding example they want to work on.
+2. Provide partial code snippets.
+3. Receive suggestions for code completion and error correction.
+4. See explanations or hints for mistakes if they make errors.
+
+**Step 5: Testing and Improvement**
+
+Test my program thoroughly to ensure it works as expected and provides 
+valuable suggestions. Collect user feedback and continuously improve the 
+system based on the feedback and usage data.
+
+**Step 6: Deployment**
+
+Once my program is working well, you can deploy it to a server or make it 
+available for users to access.
+
+            </pre>
+
+            <div class="footer">
+                <button onclick="topFunction()" id="myBtn" title="Go to top">Jump to top</button>
+            </div>
+
+        </div>
+    </body>
+
+</html>

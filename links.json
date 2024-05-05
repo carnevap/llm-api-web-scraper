@@ -1,0 +1,902 @@
+[
+    {
+        "link": "https://stackoverflow.com/questions/65188502/prevent-ipython-from-displaying-long-lists-one-element-per-line"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77432303/how-to-make-configuration-settings-part-of-strategy-in-python-hypothesis"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540307/replace-barcode-in-pdf-using-python"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540218/sqlalchemy-session-problem-there-is-code-query-device-after-query-will-rollbac"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/11875770/how-can-i-overcome-datetime-datetime-not-json-serializable"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540302/python-concurrent-futures-threadpoolexecutor-adding-values-twice-how-to-fix"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540300/navigating-nested-array-of-numbers"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/70293408/valueerror-could-not-find-a-backend-to-open-10-jpeg-with-iomode-ri"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77252408/error-installing-pointnet2-ops-lib-runtimeerror-the-detected-cuda-version-11"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77532587/signs-of-matlab-and-numpy-graph-fourier-transform-matrix-are-different"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77399990/how-do-i-print-each-result-in-each-row-separately"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540276/precise-timing-in-python-in-a-multithreaded-enviornment"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540269/error-when-defining-a-child-class-of-a-binary-tree-class-in-python"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540116/where-is-the-request-argument-coming-from-in-pytest-fixtures-what-is-this-built"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540264/chatter-bot-giving-error-attributeerror-module-time-has-no-attribute-clock"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540251/is-it-possible-to-play-audio-with-the-ask-audioplayer-interface-and-then-return"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540244/valueerror-cannot-broadcast-dimensions-3-3-1"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/68614547/tensorflow-libdevice-not-found-why-is-it-not-found-in-the-searched-path"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540242/different-behaviors-of-process-for-pyqt-application-before-vs-after-pyinstaller"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77535485/in-unsupervised-gnn-why-my-parameters-not-updated-and-why-the-loss-just-noise"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540153/type-hinting-decorator-which-injects-the-value-but-also-supports-passing-the-va"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539136/select-specific-features-for-pytorch-gradient"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/44033492/python-winerror-10054-an-existing-connection-was-forcibly-closed-by-the-remot"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/37628455/redis-get-values-inside-a-dict-hmget"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539584/erorr-with-termux-and-aionhttp-ive-tried-everything-u-u"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77533081/pip-saying-that-package-is-already-installed"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539941/how-to-minimize-a-multivariate-sympy-function-by-casting-it-to-a-lambda-function"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540152/creating-several-lists-where-each-has-all-items-from-original-list-in-unique-pai"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77534427/how-to-use-bayesian-optimization-or-similar-bayesian-package-in-python-to-fi"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/61275281/how-to-check-the-refs-in-json-schema-are-resolved-correctly"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538046/problem-extracting-scan-results-with-metasploit-using-python"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/8844536/admin-page-on-django-is-broken"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540120/sqlite3-python-table-creation-issue"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540150/how-can-i-discover-turn-server-details"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77339486/how-to-user-super-with-arguments"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540091/polars-multiple-levels-for-certain-columns"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77533994/proxy-wont-connect-after-adding-user-directory-and-profile-directory"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540133/error-to-import-gpy-cannot-import-name-tester-from-numpy-testing"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/3653298/concatenating-two-lists-difference-between-and-extend"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/29802065/popen-communicate-stdin-write-stuck"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77530575/valueerror-at-passing-input-array-to-tensorflow-model-training"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540077/attributeerror-on-end-to-end-ml-project-datatransformation-object-has-no-att"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538784/how-do-i-install-a-pip-python-fused-kernels-library-on-a-gpu-cuda-machine"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540072/finding-files-with-matching-words-in-filenames"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539758/asyncio-bufferedprotocol-doesnt-do-what-it-says-in-the-documentation-doesnt-a"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/5944272/can-python-automatically-communicate-with-svn"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539922/no-connection-between-qml-and-python-in-pyside6"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539980/whats-the-analog-of-requests-get-in-django-rest-framework"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/2769694/python-subprocess-block"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540037/how-to-calculate-per-class-metric-for-multi-class-classification-problem-using-k"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540321/unable-to-use-fetchcontent-to-add-dependency-target-to-project"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540319/how-to-remove-march-native-added-by-pcl"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540318/no-linker-error-for-my-application-when-static-library-uses-function-declared-as"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77537406/reading-string-from-attribute-or-data-in-hdf5-file-using-c"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540137/macos-stdchronoclock-cast-not-found"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77535888/aws-c-sdk-unresolved-external-w-version-of-method"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539167/how-stdoptional-library-handles-emplace-operation"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/45697090/how-to-create-c-dll-with-dev-c-and-use-in-mt4-script-step-by-step"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540122/avoiding-creating-a-team-of-threads-on-every-loop-iteration"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540089/is-there-a-method-to-read-the-windows-notification"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540060/convolution-on-c"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538833/stdcall-once-concurrent-calls-behavior"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/10410023/string-format-alternative-in-c"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539995/cannot-get-c-plugin-working-in-netbeans-19-on-windows-10-need-unpack200"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539990/how-can-i-execute-code-once-at-runtime-in-multiple-files-without-causing-conflic"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539953/mark-a-point-in-time-with-ctime-and-hold-that-in-an-object"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539951/how-to-understand-which-of-the-columns-was-highlighted-in-qtreewidgetitem"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77469824/png-file-with-wrong-colors-because-of-sdl-renderreadpixels-or-which-sdl-pixelf"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539680/list-initialization-of-vector-of-pair-of-ints"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539784/separating-axis-theorem-implementation-results-in-infinitely-extending-colliders"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77533191/crossing-ffi-boundary-has-16-performance-penalty"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539732/sdl2-sdl-h-no-such-file-or-directory-gcc-my-compiler-cant-find-the-sdl2-folder"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539401/sorting-with-zipped-views"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539565/scalapack-routine-pdgesvd-does-not-return-when-called"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539305/retrieve-large-arrays-from-shader-storage-buffer-object-opengl-compute-shader"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/60892272/forward-declaration-to-break-cyclic-dependency-in-c20-modules-doesnt-work"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77525813/integrating-catch2-unit-tests-to-a-project-which-is-structured-with-tests-close"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539147/why-do-i-have-to-export-a-forward-declaration-or-forward-declare-a-class-before"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/40006063/libnl-nl80211-equivalent-of-iw-set-ext"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/15310089/atomic-load-atomic-store-on-stdshared-ptr-in-vc11-why-the-global-spinlock"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77531807/cpp-exception-handler-not-called-for-exceptions-during-mutex-lock"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77537212/write-complex-nested-json-using-nlohmann"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539291/visual-studio-community-2022-bug-in-include-c-after-update"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77534818/altering-boost-topological-sort"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/59905660/fatal-error-eigen-dense-no-such-file-or-directory-in-vsc"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/71799399/wtsqueryusertoken-return-5-error-access-denied"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/26073388/what-is-the-equivalent-of-boostmake-transform-iterator-in-the-standard-library"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539082/how-to-insert-into-one-array-and-then-the-other-parallel-array-help"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77525257/how-to-run-c-code-in-webassembly-and-capture-stdout"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538822/how-to-enable-narrowing-conversion-in-function-parameter"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539031/encompassing-two-projects-in-clion"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538802/calling-c-from-c-sharp"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539019/imgui-in-visual-studio"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538977/cant-pinpoint-class-redefinition-error-cpp"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/51362591/forward-declarations-in-c-modules-msvc"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/59814509/glfw-thread-handling"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538123/how-can-i-wprintf-a-value-of-a-character-in-c"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77536978/sfml-c-game-development-issue-with-sprite-placement-and-cropping-during-shuf"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77516054/armadillo-c-matrix-multiplication-with-in-place-assignment-to-submatrix"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538475/running-c-program-on-api-call-in-aws"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540261/why-the-output-do-not-match-the-real-answer"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540277/i-want-to-create-an-array-that-stores-user-input"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77534843/how-to-fetch-pattern-matcher-groups-for-repetitive-regex-pattern-in-java"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540132/using-a-thermal-printer-javafx"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/51283759/mysql-8-0-11-is-throwing-client-plugin-auth-is-required"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77536566/how-to-start-a-java-program-from-where-it-was-left-after-an-error"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77536209/disabled-encryption-on-spring-boot-actuator-endpoints"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540118/how-to-add-domain-and-ssl-to-spring-boot-api-running-in-linux-vps"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539372/use-java-stream-to-validate-if-values-in-a-list-are-found-within-an-enum-class"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/54183189/cant-use-async-in-spring-boot"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/27496096/communicate-with-another-applications-on-the-same-machine"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540099/permission-for-accesing-external-storage-in-android-studio-not-showing-after-lau"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/8016964/communicate-java-and-c-sharp"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/6916398/communicating-between-two-threads"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/5517156/php-to-java-communication"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540049/how-can-i-pass-aws-configs-to-flinks-flink-s3-fs-hadoop-plugin-in-local-tests"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/6889057/printing-thread-name-using-java-util-logging"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77536279/authenticate-users-automatically-without-asking-credential-in-development-mode"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77234571/how-to-retrieve-the-health-data-from-samsung-watch-via-mobile-application"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540007/apache-beam-pipeline-with-flinkrunner-grow-side-input-size-when-recovering-from"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/8699873/communicate-with-computer-that-isnt-on-the-same-network"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/8889594/what-and-how-the-java-swing-concept-related-to-cloud"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539988/problems-with-some-visualisations-in-java-gui-database-application"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77534470/how-to-change-ejb-module-version-if-ejb-jar-xml-is-deleted-to-migrate-module-fr"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77483309/how-can-i-avoid-org-openqa-selenium-webdriverexception-original-error-socket-h"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539932/code-wont-run-if-super-windowclosinge-doesnt-exist-and-it-requires-a-w"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539893/how-to-end-a-do-while-loop-with-string-user-input-for-an-array"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539827/503-error-on-get-post-requests-in-a-heroku-java-spring-application"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539520/my-crud-doesnt-work-error-500-appears-in-postman"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539451/best-way-to-handle-identical-data-within-two-different-java-types-generated-from"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538679/i-applied-two-validation-on-same-field-in-spring-boot-application-but-when-both"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539883/project-reactor-does-mono-flux-zip-method-run-code-in-parallel-how-to-handle"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539876/spring-cloud-and-aws-lambda-issue-with-main-class-not-being-found"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/32940676/use-javascript-api-in-a-java-program"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539829/how-to-configure-kafka-streaming-security"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539855/coding-in-java-for-an-college-assignment"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539823/facing-issues-with-spring-boots-cacheable-and-cacheput-cache-is-always-empt"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539142/async-methods-return-empty-lists-why"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538941/running-docker-image-fails-this-version-of-the-java-runtime-only-recognizes-cla"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/44234817/ldap-error-code-8-for-some-users-but-not-others"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/61363005/how-can-i-debug-a-simple-java-file-in-aws-cloud9"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539389/trouble-understanding-whats-wrong-with-my-recursion"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539370/how-to-call-a-method-from-a-subclass"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539723/java-springboot-mapping-bdto-to-entity-using-modelmapper"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/27040439/hibernate-auditions-generating-same-rev-id-in-for-multiple-insert-in-one-table"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77008227/java-okhttp-i-get-these-exception-java-lang-noclassdeffounderror-okio-buffer"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/32854951/how-to-reproduce-java-net-socketexception-connection-reset"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539652/springboot-app-error-pkix-path-building-failed-javax-net-ssl-sslhandshakeexce"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77534706/java-for-loop-decrementing"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77537865/remove-border-from-component"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77534293/how-to-add-custom-block-in-convnext-small"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539871/how-do-i-create-a-python-lambda-lambda-function-to-do-this"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77522375/google-analytics-4-data-api-item-scope"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540048/pysimplegui-loading-pop-up-for-api-call"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77525423/i-would-like-to-make-a-double-angle-polar-plot-that-goes-from-0-to-180-anticlock"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/76232375/langchain-chroma-load-data-from-vector-database"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77537854/modulenotfounderror-no-module-named-urllib3-packages-six-moves"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77532058/how-would-i-get-the-openai-api-to-search-the-web-and-then-sumarize-the-collected"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77503866/nlp-text-classificaiton-or-any-method-requirement-guidance"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/61938874/encoding-error-reading-stata-file-read-stata-does-not-accept-encoding-argument"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77540026/how-to-convert-4d-tensor-to-dataset-with-omegaconf-dictconfig"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77533478/rendering-issue-in-python-ursina"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/62526652/how-to-merge-two-maps-using-python"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539800/error-when-trying-to-install-a-module-through-the-pip-package-manager"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539458/using-pytest-and-hypothesis-how-can-i-make-a-test-immediately-return-after-disc"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77536345/extract-a-surface-from-a-mesh-based-on-other-mesh"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539253/tkinter-combo-box-how-to-show-all-the-folders-in-a-parent-folder-and-store-it-f"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539817/how-to-get-all-declared-or-just-typed-parameters-of-a-class"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77534225/aws-elastic-load-balancer-redirecting-to-http-despite-https-configuration"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/72864873/beckhoff-plc-routing-on-linux"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539795/why-is-this-code-not-working-for-leetcode-1664"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77534324/tkinter-prints-none"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/76040306/modulenotfounderror-no-module-named-llama-index-langchain-helpers-chatgpt"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77534017/pythons-built-in-sum-function-taking-forever-to-compute-sums-of-very-large-rang"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/69561458/how-to-check-type-of-files-using-the-header-file-signature-magic-numbers"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539815/how-to-find-combinations-of-values-in-pandas-data-frame"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/136097/staticmethod-vs-classmethod-in-python"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539927/combine-django-filter-with-rangefilter"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/75425659/getting-the-wrong-answer-even-though-the-expected-output-output-hackerrank"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/75373668/python-win32-how-to-set-multiple-filter-values-into-pivot-table"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77517711/unpicklingerror-invalid-load-key-a"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539413/working-on-soccer-database-getting-awful-results-from-feature-engineering"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77528076/how-yara-express-a-string-at-half-of-a-file"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/64731873/how-to-correct-modulenotfounderror-for-http-client"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77532524/when-i-moved-my-code-into-a-container-it-no-longer-shows-at-all-in-the-display"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539886/how-to-efficiently-transpose-pyspark-dataframe-with-one-row-and-many-integer-col"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/74582147/pycharm-2022-1-2-does-not-hit-the-debug-breakpoint-with-django"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77354857/python-and-powershell-returning-errors"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539870/garmin-api-user-exchange-tokens-python"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/50204470/how-to-programmatically-import-text-file-into-anki"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539709/how-to-find-the-number-of-events-or-pulses-recorded-when-the-value-is-greater-th"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539839/flask-in-python-videos-wont-play-on-chrome-oder-edge-but-play-perfectly-in-fi"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/58303237/naming-conflict-filterdatabase-when-feeding-excel-with-data-from-win32com"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538965/set-variable-to-an-expired-session-out-of-a-view-in-django"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/259634/splitting-a-persons-name-into-forename-and-surname"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539489/python-selenium-is-too-slow"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539833/why-are-my-custom-icons-for-a-qfilesystemmodel-not-showing"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539824/python-vlc-cd-get-metadata"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539816/test-coverage-does-not-count-lines-coverred-by-selenium-webdriver"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539710/getting-allways-the-same-values-when-iterating-using-selenium"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538577/unresolved-external-symbol-error-from-generated-protobuf-c-code-on-windows"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77526685/using-jnr-ffi-to-output-a-char-table-to-cmd-screen-buffer-crashes"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/67961118/unable-to-locate-opencv-header-but-pkg-config-contains-path"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/17325888/c11-thread-waiting-behaviour-stdthis-threadyield-vs-stdthis-thread"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538537/convert-c-custom-unit-type-to-primative-java-type-with-swig"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538337/is-class-template-instantiated-when-passed-by-reference"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538462/what-is-the-best-way-to-use-vaos-for-performance-in-opengl"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77535076/problems-with-outputting-stream-format-as-rtmp"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538362/my-template-class-cant-see-my-other-template-class-even-though-i-included-it"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77530130/how-to-prevent-copy-elision-when-implementing-custom-array-functionality"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/4421706/what-are-the-basic-rules-and-idioms-for-operator-overloading"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/50549611/slicing-a-vector-in-c"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77537433/problems-with-a-texture-opengl"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77537125/asan-memory-leaks-in-embedded-python-interpreter-in-c"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/12760878/contains-function-for-lpctstr"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77537715/clenqueuewritebuffer-to-clenqueuemapbuffer"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77537646/how-to-correctly-implement-filtering-of-a-certain-container-with-objects"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77535698/how-to-identify-the-version-of-library-used"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77537482/onnx-ort-invalid-argument2-exception-when-creating-tensor-with-ortvaluecre"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/38084571/finding-second-shortest-path-in-a-graphwith-backtracking"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/73614148/not-able-to-run-gem5-with-risc-v-seworkload-occurred-couldnt-find-appropria"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77535739/wxwidgets-alpha-channel-of-wxcolor-not-working-as-expected"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77537378/problem-with-getting-array-of-vec3-from-ssbo-in-opengl-4-3-compute-shaders"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77537339/stack-smashing-detected-in-c-selection-sort-implementation-unexpected-output"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77510966/odeint-error-use-of-deleted-function-boostnumericodeintstate-wrappersta"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77528668/how-to-pass-or-retrieve-mime-data-when-dragging-dropping-a-qtreewidgetitem"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/7573857/passing-c-lambda-functions"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/686353/random-float-number-generation"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77533089/how-to-use-libnfc-in-a-qt-qamke-project-on-macos"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77536028/why-the-mp4-video-look-like-a-yuv-file-with-a-missing-y-component"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77534415/c-store-reference-to-an-instance-of-one-of-two-possible-classes"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77536648/why-cant-a-stateful-but-constexpr-lambda-not-be-used-as-a-non-type-template-p"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/45071876/why-cant-a-destructor-be-marked-constexpr"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77522862/grpc-async-server-servercompletionqueueasyncnext-does-not-return-nextstatus"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77535127/partial-template-specialization-constrained-by-stdderived-from-compiles-differ"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/74073081/how-do-i-parameterize-a-consteval-lambda"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/60021694/what-is-c-winrt-exactly"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77530107/how-to-wait-for-an-stdfuture-with-boostasio"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77536660/netcdf-outputs-the-wrong-values-in-the-data-given"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/13180842/how-to-calculate-offset-of-a-class-member-at-compile-time"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/8361117/google-dense-hash-map-c"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77535426/read-float-texture-in-shader-value-is-always-zero"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77535813/c-pointer-to-c-sharp-and-back"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77528025/how-do-i-configure-the-unreal-engine-localization-dashboard-to-gather-string-tab"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77536260/qmouseeventpos-returns-different-values-on-different-os"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77535512/delete-or-hide-parent-class-method-c"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77535616/raspberry-pi-pico-with-tmc2208-stepper-driver-delay"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77536092/qt-lupdate-ignore-tr-in-c-files"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77533041/c-cli-wrapper-class-track-unmanaged-object-pointers"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77535266/why-does-the-following-code-not-compile-and-if-replaced-with-int-instead-of"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539614/depth-first-search-error-troubleshoot-need-to-add-in-the-finishing-touches-into"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77520005/spring-data-neo4j-cant-convert-internalnode-back-to-entity-class-when-retrievin"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/71617146/spring-filter-obtain-servlet-url-pattern"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539380/how-can-i-set-parameters-arguments-to-the-overriden-method-non-static-of-a-cla"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539571/does-select-for-update-query-in-db2-need-springs-transactional-annotation"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/25065849/overriding-contexthierarchy-and-contextconfiguration-from-a-meta-annotation"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539526/fail-to-start-flink-sql-client-on-emr-on-eks-docker-image"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539449/spring-boot-with-mysql-containerization"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539504/%d8%a7%d8%b1%d9%8a%d8%af-%d9%83%d8%aa%d8%a7%d8%a8%d8%a9-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a8%d8%a7%d9%84%d8%ac%d8%a7%d9%81%d8%a7-producteur-et-consemateur-et-semaphorme-en-syst%c3%a8me-de"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539501/java-lang-invoke-stringconcatfactory-cannot-be-resolved-recurring-error-in-vs"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539471/how-to-adjust-my-app-code-for-new-version-of-android-studio"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539435/image-file-does-not-exist-at-uri"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538473/vaading-setallrowsvisible-lazy-loading-grid"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77508671/java-array-with-generic-types-in-a-class"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/33874705/android-set-textcolor-listitem-on-an-alertdialog-with-list-programatically"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77534429/how-to-set-charactor-encoding-to-utf-8-in-jasper-version-6-20-0-or-6-20-6-in-jav"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/45172765/how-to-remove-no-longer-valid-gauges"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538181/record-only-a-single-thread-in-jdk-flight-recorder"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539258/downloading-file-with-okhttpclient-fails-from-downloading-cloudfront-url"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539277/java-ssl-key-missing"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/71620124/how-to-handle-token-refreshing-in-spring-webflux-webclient"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77533811/how-to-send-date-in-rest-api-in-post-method-maven-project"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539215/snmp4j-request-timeout-with-snmpv3"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539144/spring-performance"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77534808/handling-spring-security-oauth2-on-a-multiple-services"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539201/spring-framework-class-resolution-with-latest-neo4j-ogm-core-neo4j-ogm-bolt-driv"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/62929/java-net-socketexception-connection-reset"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538455/round-double-with-e-in-it"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77535376/mysql-getting-disconnected-from-application-during-populating"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539097/how-to-save-document-in-elasticsearch-by-springboot-app"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539085/creating-a-file-object-only-works-when-i-use-an-absolute-path"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539076/possibility-to-restrict-cpu-and-memory-consumption-of-gc"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/71139586/bindingresult-does-not-work-thymeleaf-cant-see-it"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/24127138/how-to-replace-a-rectangular-region-of-mat-image"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538165/how-to-make-these-two-methods-one"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539053/how-can-i-make-only-some-markers-clickable-in-google-map-for-android"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539045/windows-how-can-i-prevent-a-jframe-from-being-hidden-in-desktop-peek"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77539033/how-to-avoid-compatibility-issues-between-java-ee-and-jakarta-ee"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77527118/is-there-a-way-to-solve-or-fix-the-codes-of-my-exercise20-23-java-for-revel"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/1163465/what-is-the-difference-between-covariance-and-contra-variance-in-programming-lan"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77527886/eclipseerror-while-doind-problem-of-if-and-else"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538861/kotlin-custom-bottom-tabbar-with-animation-for-android"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538860/gcd-and-linear-combination-backwards-program-in-java-with-steps"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538847/threads-hang-on-getcallerclass-native-method"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538839/stop-word-in-elasticsearch"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77528402/missing-withsession-with-quarkus-resteasy-reactive-causes-java-lang-illegalstat"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538820/what-is-the-best-way-to-support-parsing-multiple-languages-in-antlr"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538370/form-with-post-request-assigns-request-parameter-to-object-bound-to-form"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538743/efficient-chart-library-for-javafx-or-javaswing-for-realtime-data"
+    },
+    {
+        "link": "https://stackoverflow.com/questions/77538647/dbutils-query-runner-usage-of-batch-performance"
+    }
+]
