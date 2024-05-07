@@ -139,7 +139,7 @@ with open('improved.json', 'w', encoding='utf-8') as json_file:
 print(f"Processed the improved answer and saved it in 'improved.json'.")
 
 
-#Time calculation:
+#Time calculation: Display's time it took to run through the program
 end_time = time.time()
 elapsed_time = end_time - start_time
 print(f"Time taken: {elapsed_time} seconds")
